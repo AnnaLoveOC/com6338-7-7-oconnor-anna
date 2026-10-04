@@ -1,7 +1,7 @@
 // Your code here
 
 // API Key
-var API_KEY = "65b4b88d5cfeae955676bbecf073b0a6"
+var API_KEY = "34d457bc3da2e7bd0e2519d9c78ebc4c"
 
 // Select DOM Elements
 var weatherURL = "https://api.openweathermap.org/data/2.5/weather"
